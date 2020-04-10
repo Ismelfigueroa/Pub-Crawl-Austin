@@ -1,4 +1,4 @@
-# Project2
+# Crawl Bowl
 
 Step 1: Project 2 MVC Setup 
 
