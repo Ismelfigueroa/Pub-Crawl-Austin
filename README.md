@@ -1,7 +1,7 @@
 # Pub Crawl Austin 
 
 ### User Story:
-As a fan a want to:
+As a beer fan a want to:
 Find local breweries. Remember my current favorite brewery. 
 
 ### Keep track of beers I like as the user I want to:
